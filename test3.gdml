@@ -4573,7 +4573,7 @@
       </volume>
     <volume name="volWorld">
       <materialref ref="Rock"/>
-      <solidref ref="World"/>
+v      <solidref ref="World"/>
       <physvol>
         <volumeref ref="volDetEnclosure"/>
         <positionref ref="volDetEnclosure_pos"/>
