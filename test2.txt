@@ -1,0 +1,4587 @@
+<?xml version="1.0" encoding="ASCII"?>
+<gdml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://service-spi.web.cern.ch/service-spi/app/releases/GDML/schema/gdml.xsd">
+  <define>
+    <rotation name="3DRow_rot" unit="degree" x="0.0" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar0_pos" unit="cm" x="119.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar1_pos" unit="cm" x="118.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar2_pos" unit="cm" x="117.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar3_pos" unit="cm" x="116.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar4_pos" unit="cm" x="115.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar5_pos" unit="cm" x="114.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar6_pos" unit="cm" x="113.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar7_pos" unit="cm" x="112.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar8_pos" unit="cm" x="111.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar9_pos" unit="cm" x="110.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar10_pos" unit="cm" x="109.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar11_pos" unit="cm" x="108.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar12_pos" unit="cm" x="107.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar13_pos" unit="cm" x="106.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar14_pos" unit="cm" x="105.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar15_pos" unit="cm" x="104.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar16_pos" unit="cm" x="103.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar17_pos" unit="cm" x="102.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar18_pos" unit="cm" x="101.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar19_pos" unit="cm" x="100.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar20_pos" unit="cm" x="99.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar21_pos" unit="cm" x="98.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar22_pos" unit="cm" x="97.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar23_pos" unit="cm" x="96.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar24_pos" unit="cm" x="95.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar25_pos" unit="cm" x="94.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar26_pos" unit="cm" x="93.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar27_pos" unit="cm" x="92.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar28_pos" unit="cm" x="91.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar29_pos" unit="cm" x="90.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar30_pos" unit="cm" x="89.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar31_pos" unit="cm" x="88.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar32_pos" unit="cm" x="87.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar33_pos" unit="cm" x="86.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar34_pos" unit="cm" x="85.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar35_pos" unit="cm" x="84.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar36_pos" unit="cm" x="83.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar37_pos" unit="cm" x="82.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar38_pos" unit="cm" x="81.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar39_pos" unit="cm" x="80.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar40_pos" unit="cm" x="79.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar41_pos" unit="cm" x="78.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar42_pos" unit="cm" x="77.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar43_pos" unit="cm" x="76.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar44_pos" unit="cm" x="75.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar45_pos" unit="cm" x="74.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar46_pos" unit="cm" x="73.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar47_pos" unit="cm" x="72.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar48_pos" unit="cm" x="71.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar49_pos" unit="cm" x="70.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar50_pos" unit="cm" x="69.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar51_pos" unit="cm" x="68.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar52_pos" unit="cm" x="67.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar53_pos" unit="cm" x="66.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar54_pos" unit="cm" x="65.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar55_pos" unit="cm" x="64.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar56_pos" unit="cm" x="63.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar57_pos" unit="cm" x="62.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar58_pos" unit="cm" x="61.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar59_pos" unit="cm" x="60.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar60_pos" unit="cm" x="59.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar61_pos" unit="cm" x="58.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar62_pos" unit="cm" x="57.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar63_pos" unit="cm" x="56.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar64_pos" unit="cm" x="55.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar65_pos" unit="cm" x="54.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar66_pos" unit="cm" x="53.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar67_pos" unit="cm" x="52.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar68_pos" unit="cm" x="51.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar69_pos" unit="cm" x="50.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar70_pos" unit="cm" x="49.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar71_pos" unit="cm" x="48.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar72_pos" unit="cm" x="47.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar73_pos" unit="cm" x="46.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar74_pos" unit="cm" x="45.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar75_pos" unit="cm" x="44.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar76_pos" unit="cm" x="43.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar77_pos" unit="cm" x="42.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar78_pos" unit="cm" x="41.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar79_pos" unit="cm" x="40.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar80_pos" unit="cm" x="39.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar81_pos" unit="cm" x="38.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar82_pos" unit="cm" x="37.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar83_pos" unit="cm" x="36.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar84_pos" unit="cm" x="35.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar85_pos" unit="cm" x="34.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar86_pos" unit="cm" x="33.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar87_pos" unit="cm" x="32.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar88_pos" unit="cm" x="31.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar89_pos" unit="cm" x="30.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar90_pos" unit="cm" x="29.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar91_pos" unit="cm" x="28.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar92_pos" unit="cm" x="27.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar93_pos" unit="cm" x="26.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar94_pos" unit="cm" x="25.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar95_pos" unit="cm" x="24.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar96_pos" unit="cm" x="23.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar97_pos" unit="cm" x="22.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar98_pos" unit="cm" x="21.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar99_pos" unit="cm" x="20.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar100_pos" unit="cm" x="19.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar101_pos" unit="cm" x="18.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar102_pos" unit="cm" x="17.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar103_pos" unit="cm" x="16.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar104_pos" unit="cm" x="15.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar105_pos" unit="cm" x="14.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar106_pos" unit="cm" x="13.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar107_pos" unit="cm" x="12.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar108_pos" unit="cm" x="11.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar109_pos" unit="cm" x="10.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar110_pos" unit="cm" x="9.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar111_pos" unit="cm" x="8.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar112_pos" unit="cm" x="7.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar113_pos" unit="cm" x="6.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar114_pos" unit="cm" x="5.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar115_pos" unit="cm" x="4.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar116_pos" unit="cm" x="3.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar117_pos" unit="cm" x="2.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar118_pos" unit="cm" x="1.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar119_pos" unit="cm" x="0.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar120_pos" unit="cm" x="-0.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar121_pos" unit="cm" x="-1.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar122_pos" unit="cm" x="-2.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar123_pos" unit="cm" x="-3.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar124_pos" unit="cm" x="-4.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar125_pos" unit="cm" x="-5.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar126_pos" unit="cm" x="-6.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar127_pos" unit="cm" x="-7.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar128_pos" unit="cm" x="-8.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar129_pos" unit="cm" x="-9.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar130_pos" unit="cm" x="-10.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar131_pos" unit="cm" x="-11.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar132_pos" unit="cm" x="-12.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar133_pos" unit="cm" x="-13.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar134_pos" unit="cm" x="-14.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar135_pos" unit="cm" x="-15.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar136_pos" unit="cm" x="-16.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar137_pos" unit="cm" x="-17.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar138_pos" unit="cm" x="-18.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar139_pos" unit="cm" x="-19.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar140_pos" unit="cm" x="-20.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar141_pos" unit="cm" x="-21.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar142_pos" unit="cm" x="-22.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar143_pos" unit="cm" x="-23.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar144_pos" unit="cm" x="-24.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar145_pos" unit="cm" x="-25.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar146_pos" unit="cm" x="-26.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar147_pos" unit="cm" x="-27.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar148_pos" unit="cm" x="-28.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar149_pos" unit="cm" x="-29.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar150_pos" unit="cm" x="-30.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar151_pos" unit="cm" x="-31.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar152_pos" unit="cm" x="-32.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar153_pos" unit="cm" x="-33.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar154_pos" unit="cm" x="-34.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar155_pos" unit="cm" x="-35.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar156_pos" unit="cm" x="-36.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar157_pos" unit="cm" x="-37.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar158_pos" unit="cm" x="-38.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar159_pos" unit="cm" x="-39.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar160_pos" unit="cm" x="-40.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar161_pos" unit="cm" x="-41.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar162_pos" unit="cm" x="-42.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar163_pos" unit="cm" x="-43.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar164_pos" unit="cm" x="-44.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar165_pos" unit="cm" x="-45.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar166_pos" unit="cm" x="-46.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar167_pos" unit="cm" x="-47.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar168_pos" unit="cm" x="-48.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar169_pos" unit="cm" x="-49.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar170_pos" unit="cm" x="-50.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar171_pos" unit="cm" x="-51.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar172_pos" unit="cm" x="-52.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar173_pos" unit="cm" x="-53.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar174_pos" unit="cm" x="-54.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar175_pos" unit="cm" x="-55.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar176_pos" unit="cm" x="-56.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar177_pos" unit="cm" x="-57.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar178_pos" unit="cm" x="-58.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar179_pos" unit="cm" x="-59.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar180_pos" unit="cm" x="-60.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar181_pos" unit="cm" x="-61.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar182_pos" unit="cm" x="-62.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar183_pos" unit="cm" x="-63.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar184_pos" unit="cm" x="-64.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar185_pos" unit="cm" x="-65.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar186_pos" unit="cm" x="-66.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar187_pos" unit="cm" x="-67.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar188_pos" unit="cm" x="-68.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar189_pos" unit="cm" x="-69.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar190_pos" unit="cm" x="-70.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar191_pos" unit="cm" x="-71.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar192_pos" unit="cm" x="-72.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar193_pos" unit="cm" x="-73.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar194_pos" unit="cm" x="-74.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar195_pos" unit="cm" x="-75.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar196_pos" unit="cm" x="-76.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar197_pos" unit="cm" x="-77.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar198_pos" unit="cm" x="-78.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar199_pos" unit="cm" x="-79.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar200_pos" unit="cm" x="-80.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar201_pos" unit="cm" x="-81.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar202_pos" unit="cm" x="-82.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar203_pos" unit="cm" x="-83.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar204_pos" unit="cm" x="-84.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar205_pos" unit="cm" x="-85.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar206_pos" unit="cm" x="-86.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar207_pos" unit="cm" x="-87.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar208_pos" unit="cm" x="-88.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar209_pos" unit="cm" x="-89.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar210_pos" unit="cm" x="-90.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar211_pos" unit="cm" x="-91.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar212_pos" unit="cm" x="-92.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar213_pos" unit="cm" x="-93.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar214_pos" unit="cm" x="-94.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar215_pos" unit="cm" x="-95.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar216_pos" unit="cm" x="-96.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar217_pos" unit="cm" x="-97.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar218_pos" unit="cm" x="-98.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar219_pos" unit="cm" x="-99.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar220_pos" unit="cm" x="-100.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar221_pos" unit="cm" x="-101.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar222_pos" unit="cm" x="-102.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar223_pos" unit="cm" x="-103.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar224_pos" unit="cm" x="-104.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar225_pos" unit="cm" x="-105.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar226_pos" unit="cm" x="-106.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar227_pos" unit="cm" x="-107.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar228_pos" unit="cm" x="-108.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar229_pos" unit="cm" x="-109.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar230_pos" unit="cm" x="-110.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar231_pos" unit="cm" x="-111.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar232_pos" unit="cm" x="-112.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar233_pos" unit="cm" x="-113.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar234_pos" unit="cm" x="-114.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar235_pos" unit="cm" x="-115.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar236_pos" unit="cm" x="-116.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar237_pos" unit="cm" x="-117.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar238_pos" unit="cm" x="-118.5" y="0.0" z="0.0"/>
+    <position name="3DRowvol3DRectBar239_pos" unit="cm" x="-119.5" y="0.0" z="0.0"/>
+    <rotation name="3DPlane_rot" unit="degree" x="0.0" y="0.0" z="0.0"/>
+    <position name="3DPlanevol3DRow0_pos" unit="cm" x="0.0" y="119.5" z="0.0"/>
+    <position name="3DPlanevol3DRow1_pos" unit="cm" x="0.0" y="118.5" z="0.0"/>
+    <position name="3DPlanevol3DRow2_pos" unit="cm" x="0.0" y="117.5" z="0.0"/>
+    <position name="3DPlanevol3DRow3_pos" unit="cm" x="0.0" y="116.5" z="0.0"/>
+    <position name="3DPlanevol3DRow4_pos" unit="cm" x="0.0" y="115.5" z="0.0"/>
+    <position name="3DPlanevol3DRow5_pos" unit="cm" x="0.0" y="114.5" z="0.0"/>
+    <position name="3DPlanevol3DRow6_pos" unit="cm" x="0.0" y="113.5" z="0.0"/>
+    <position name="3DPlanevol3DRow7_pos" unit="cm" x="0.0" y="112.5" z="0.0"/>
+    <position name="3DPlanevol3DRow8_pos" unit="cm" x="0.0" y="111.5" z="0.0"/>
+    <position name="3DPlanevol3DRow9_pos" unit="cm" x="0.0" y="110.5" z="0.0"/>
+    <position name="3DPlanevol3DRow10_pos" unit="cm" x="0.0" y="109.5" z="0.0"/>
+    <position name="3DPlanevol3DRow11_pos" unit="cm" x="0.0" y="108.5" z="0.0"/>
+    <position name="3DPlanevol3DRow12_pos" unit="cm" x="0.0" y="107.5" z="0.0"/>
+    <position name="3DPlanevol3DRow13_pos" unit="cm" x="0.0" y="106.5" z="0.0"/>
+    <position name="3DPlanevol3DRow14_pos" unit="cm" x="0.0" y="105.5" z="0.0"/>
+    <position name="3DPlanevol3DRow15_pos" unit="cm" x="0.0" y="104.5" z="0.0"/>
+    <position name="3DPlanevol3DRow16_pos" unit="cm" x="0.0" y="103.5" z="0.0"/>
+    <position name="3DPlanevol3DRow17_pos" unit="cm" x="0.0" y="102.5" z="0.0"/>
+    <position name="3DPlanevol3DRow18_pos" unit="cm" x="0.0" y="101.5" z="0.0"/>
+    <position name="3DPlanevol3DRow19_pos" unit="cm" x="0.0" y="100.5" z="0.0"/>
+    <position name="3DPlanevol3DRow20_pos" unit="cm" x="0.0" y="99.5" z="0.0"/>
+    <position name="3DPlanevol3DRow21_pos" unit="cm" x="0.0" y="98.5" z="0.0"/>
+    <position name="3DPlanevol3DRow22_pos" unit="cm" x="0.0" y="97.5" z="0.0"/>
+    <position name="3DPlanevol3DRow23_pos" unit="cm" x="0.0" y="96.5" z="0.0"/>
+    <position name="3DPlanevol3DRow24_pos" unit="cm" x="0.0" y="95.5" z="0.0"/>
+    <position name="3DPlanevol3DRow25_pos" unit="cm" x="0.0" y="94.5" z="0.0"/>
+    <position name="3DPlanevol3DRow26_pos" unit="cm" x="0.0" y="93.5" z="0.0"/>
+    <position name="3DPlanevol3DRow27_pos" unit="cm" x="0.0" y="92.5" z="0.0"/>
+    <position name="3DPlanevol3DRow28_pos" unit="cm" x="0.0" y="91.5" z="0.0"/>
+    <position name="3DPlanevol3DRow29_pos" unit="cm" x="0.0" y="90.5" z="0.0"/>
+    <position name="3DPlanevol3DRow30_pos" unit="cm" x="0.0" y="89.5" z="0.0"/>
+    <position name="3DPlanevol3DRow31_pos" unit="cm" x="0.0" y="88.5" z="0.0"/>
+    <position name="3DPlanevol3DRow32_pos" unit="cm" x="0.0" y="87.5" z="0.0"/>
+    <position name="3DPlanevol3DRow33_pos" unit="cm" x="0.0" y="86.5" z="0.0"/>
+    <position name="3DPlanevol3DRow34_pos" unit="cm" x="0.0" y="85.5" z="0.0"/>
+    <position name="3DPlanevol3DRow35_pos" unit="cm" x="0.0" y="84.5" z="0.0"/>
+    <position name="3DPlanevol3DRow36_pos" unit="cm" x="0.0" y="83.5" z="0.0"/>
+    <position name="3DPlanevol3DRow37_pos" unit="cm" x="0.0" y="82.5" z="0.0"/>
+    <position name="3DPlanevol3DRow38_pos" unit="cm" x="0.0" y="81.5" z="0.0"/>
+    <position name="3DPlanevol3DRow39_pos" unit="cm" x="0.0" y="80.5" z="0.0"/>
+    <position name="3DPlanevol3DRow40_pos" unit="cm" x="0.0" y="79.5" z="0.0"/>
+    <position name="3DPlanevol3DRow41_pos" unit="cm" x="0.0" y="78.5" z="0.0"/>
+    <position name="3DPlanevol3DRow42_pos" unit="cm" x="0.0" y="77.5" z="0.0"/>
+    <position name="3DPlanevol3DRow43_pos" unit="cm" x="0.0" y="76.5" z="0.0"/>
+    <position name="3DPlanevol3DRow44_pos" unit="cm" x="0.0" y="75.5" z="0.0"/>
+    <position name="3DPlanevol3DRow45_pos" unit="cm" x="0.0" y="74.5" z="0.0"/>
+    <position name="3DPlanevol3DRow46_pos" unit="cm" x="0.0" y="73.5" z="0.0"/>
+    <position name="3DPlanevol3DRow47_pos" unit="cm" x="0.0" y="72.5" z="0.0"/>
+    <position name="3DPlanevol3DRow48_pos" unit="cm" x="0.0" y="71.5" z="0.0"/>
+    <position name="3DPlanevol3DRow49_pos" unit="cm" x="0.0" y="70.5" z="0.0"/>
+    <position name="3DPlanevol3DRow50_pos" unit="cm" x="0.0" y="69.5" z="0.0"/>
+    <position name="3DPlanevol3DRow51_pos" unit="cm" x="0.0" y="68.5" z="0.0"/>
+    <position name="3DPlanevol3DRow52_pos" unit="cm" x="0.0" y="67.5" z="0.0"/>
+    <position name="3DPlanevol3DRow53_pos" unit="cm" x="0.0" y="66.5" z="0.0"/>
+    <position name="3DPlanevol3DRow54_pos" unit="cm" x="0.0" y="65.5" z="0.0"/>
+    <position name="3DPlanevol3DRow55_pos" unit="cm" x="0.0" y="64.5" z="0.0"/>
+    <position name="3DPlanevol3DRow56_pos" unit="cm" x="0.0" y="63.5" z="0.0"/>
+    <position name="3DPlanevol3DRow57_pos" unit="cm" x="0.0" y="62.5" z="0.0"/>
+    <position name="3DPlanevol3DRow58_pos" unit="cm" x="0.0" y="61.5" z="0.0"/>
+    <position name="3DPlanevol3DRow59_pos" unit="cm" x="0.0" y="60.5" z="0.0"/>
+    <position name="3DPlanevol3DRow60_pos" unit="cm" x="0.0" y="59.5" z="0.0"/>
+    <position name="3DPlanevol3DRow61_pos" unit="cm" x="0.0" y="58.5" z="0.0"/>
+    <position name="3DPlanevol3DRow62_pos" unit="cm" x="0.0" y="57.5" z="0.0"/>
+    <position name="3DPlanevol3DRow63_pos" unit="cm" x="0.0" y="56.5" z="0.0"/>
+    <position name="3DPlanevol3DRow64_pos" unit="cm" x="0.0" y="55.5" z="0.0"/>
+    <position name="3DPlanevol3DRow65_pos" unit="cm" x="0.0" y="54.5" z="0.0"/>
+    <position name="3DPlanevol3DRow66_pos" unit="cm" x="0.0" y="53.5" z="0.0"/>
+    <position name="3DPlanevol3DRow67_pos" unit="cm" x="0.0" y="52.5" z="0.0"/>
+    <position name="3DPlanevol3DRow68_pos" unit="cm" x="0.0" y="51.5" z="0.0"/>
+    <position name="3DPlanevol3DRow69_pos" unit="cm" x="0.0" y="50.5" z="0.0"/>
+    <position name="3DPlanevol3DRow70_pos" unit="cm" x="0.0" y="49.5" z="0.0"/>
+    <position name="3DPlanevol3DRow71_pos" unit="cm" x="0.0" y="48.5" z="0.0"/>
+    <position name="3DPlanevol3DRow72_pos" unit="cm" x="0.0" y="47.5" z="0.0"/>
+    <position name="3DPlanevol3DRow73_pos" unit="cm" x="0.0" y="46.5" z="0.0"/>
+    <position name="3DPlanevol3DRow74_pos" unit="cm" x="0.0" y="45.5" z="0.0"/>
+    <position name="3DPlanevol3DRow75_pos" unit="cm" x="0.0" y="44.5" z="0.0"/>
+    <position name="3DPlanevol3DRow76_pos" unit="cm" x="0.0" y="43.5" z="0.0"/>
+    <position name="3DPlanevol3DRow77_pos" unit="cm" x="0.0" y="42.5" z="0.0"/>
+    <position name="3DPlanevol3DRow78_pos" unit="cm" x="0.0" y="41.5" z="0.0"/>
+    <position name="3DPlanevol3DRow79_pos" unit="cm" x="0.0" y="40.5" z="0.0"/>
+    <position name="3DPlanevol3DRow80_pos" unit="cm" x="0.0" y="39.5" z="0.0"/>
+    <position name="3DPlanevol3DRow81_pos" unit="cm" x="0.0" y="38.5" z="0.0"/>
+    <position name="3DPlanevol3DRow82_pos" unit="cm" x="0.0" y="37.5" z="0.0"/>
+    <position name="3DPlanevol3DRow83_pos" unit="cm" x="0.0" y="36.5" z="0.0"/>
+    <position name="3DPlanevol3DRow84_pos" unit="cm" x="0.0" y="35.5" z="0.0"/>
+    <position name="3DPlanevol3DRow85_pos" unit="cm" x="0.0" y="34.5" z="0.0"/>
+    <position name="3DPlanevol3DRow86_pos" unit="cm" x="0.0" y="33.5" z="0.0"/>
+    <position name="3DPlanevol3DRow87_pos" unit="cm" x="0.0" y="32.5" z="0.0"/>
+    <position name="3DPlanevol3DRow88_pos" unit="cm" x="0.0" y="31.5" z="0.0"/>
+    <position name="3DPlanevol3DRow89_pos" unit="cm" x="0.0" y="30.5" z="0.0"/>
+    <position name="3DPlanevol3DRow90_pos" unit="cm" x="0.0" y="29.5" z="0.0"/>
+    <position name="3DPlanevol3DRow91_pos" unit="cm" x="0.0" y="28.5" z="0.0"/>
+    <position name="3DPlanevol3DRow92_pos" unit="cm" x="0.0" y="27.5" z="0.0"/>
+    <position name="3DPlanevol3DRow93_pos" unit="cm" x="0.0" y="26.5" z="0.0"/>
+    <position name="3DPlanevol3DRow94_pos" unit="cm" x="0.0" y="25.5" z="0.0"/>
+    <position name="3DPlanevol3DRow95_pos" unit="cm" x="0.0" y="24.5" z="0.0"/>
+    <position name="3DPlanevol3DRow96_pos" unit="cm" x="0.0" y="23.5" z="0.0"/>
+    <position name="3DPlanevol3DRow97_pos" unit="cm" x="0.0" y="22.5" z="0.0"/>
+    <position name="3DPlanevol3DRow98_pos" unit="cm" x="0.0" y="21.5" z="0.0"/>
+    <position name="3DPlanevol3DRow99_pos" unit="cm" x="0.0" y="20.5" z="0.0"/>
+    <position name="3DPlanevol3DRow100_pos" unit="cm" x="0.0" y="19.5" z="0.0"/>
+    <position name="3DPlanevol3DRow101_pos" unit="cm" x="0.0" y="18.5" z="0.0"/>
+    <position name="3DPlanevol3DRow102_pos" unit="cm" x="0.0" y="17.5" z="0.0"/>
+    <position name="3DPlanevol3DRow103_pos" unit="cm" x="0.0" y="16.5" z="0.0"/>
+    <position name="3DPlanevol3DRow104_pos" unit="cm" x="0.0" y="15.5" z="0.0"/>
+    <position name="3DPlanevol3DRow105_pos" unit="cm" x="0.0" y="14.5" z="0.0"/>
+    <position name="3DPlanevol3DRow106_pos" unit="cm" x="0.0" y="13.5" z="0.0"/>
+    <position name="3DPlanevol3DRow107_pos" unit="cm" x="0.0" y="12.5" z="0.0"/>
+    <position name="3DPlanevol3DRow108_pos" unit="cm" x="0.0" y="11.5" z="0.0"/>
+    <position name="3DPlanevol3DRow109_pos" unit="cm" x="0.0" y="10.5" z="0.0"/>
+    <position name="3DPlanevol3DRow110_pos" unit="cm" x="0.0" y="9.5" z="0.0"/>
+    <position name="3DPlanevol3DRow111_pos" unit="cm" x="0.0" y="8.5" z="0.0"/>
+    <position name="3DPlanevol3DRow112_pos" unit="cm" x="0.0" y="7.5" z="0.0"/>
+    <position name="3DPlanevol3DRow113_pos" unit="cm" x="0.0" y="6.5" z="0.0"/>
+    <position name="3DPlanevol3DRow114_pos" unit="cm" x="0.0" y="5.5" z="0.0"/>
+    <position name="3DPlanevol3DRow115_pos" unit="cm" x="0.0" y="4.5" z="0.0"/>
+    <position name="3DPlanevol3DRow116_pos" unit="cm" x="0.0" y="3.5" z="0.0"/>
+    <position name="3DPlanevol3DRow117_pos" unit="cm" x="0.0" y="2.5" z="0.0"/>
+    <position name="3DPlanevol3DRow118_pos" unit="cm" x="0.0" y="1.5" z="0.0"/>
+    <position name="3DPlanevol3DRow119_pos" unit="cm" x="0.0" y="0.5" z="0.0"/>
+    <position name="3DPlanevol3DRow120_pos" unit="cm" x="0.0" y="-0.5" z="0.0"/>
+    <position name="3DPlanevol3DRow121_pos" unit="cm" x="0.0" y="-1.5" z="0.0"/>
+    <position name="3DPlanevol3DRow122_pos" unit="cm" x="0.0" y="-2.5" z="0.0"/>
+    <position name="3DPlanevol3DRow123_pos" unit="cm" x="0.0" y="-3.5" z="0.0"/>
+    <position name="3DPlanevol3DRow124_pos" unit="cm" x="0.0" y="-4.5" z="0.0"/>
+    <position name="3DPlanevol3DRow125_pos" unit="cm" x="0.0" y="-5.5" z="0.0"/>
+    <position name="3DPlanevol3DRow126_pos" unit="cm" x="0.0" y="-6.5" z="0.0"/>
+    <position name="3DPlanevol3DRow127_pos" unit="cm" x="0.0" y="-7.5" z="0.0"/>
+    <position name="3DPlanevol3DRow128_pos" unit="cm" x="0.0" y="-8.5" z="0.0"/>
+    <position name="3DPlanevol3DRow129_pos" unit="cm" x="0.0" y="-9.5" z="0.0"/>
+    <position name="3DPlanevol3DRow130_pos" unit="cm" x="0.0" y="-10.5" z="0.0"/>
+    <position name="3DPlanevol3DRow131_pos" unit="cm" x="0.0" y="-11.5" z="0.0"/>
+    <position name="3DPlanevol3DRow132_pos" unit="cm" x="0.0" y="-12.5" z="0.0"/>
+    <position name="3DPlanevol3DRow133_pos" unit="cm" x="0.0" y="-13.5" z="0.0"/>
+    <position name="3DPlanevol3DRow134_pos" unit="cm" x="0.0" y="-14.5" z="0.0"/>
+    <position name="3DPlanevol3DRow135_pos" unit="cm" x="0.0" y="-15.5" z="0.0"/>
+    <position name="3DPlanevol3DRow136_pos" unit="cm" x="0.0" y="-16.5" z="0.0"/>
+    <position name="3DPlanevol3DRow137_pos" unit="cm" x="0.0" y="-17.5" z="0.0"/>
+    <position name="3DPlanevol3DRow138_pos" unit="cm" x="0.0" y="-18.5" z="0.0"/>
+    <position name="3DPlanevol3DRow139_pos" unit="cm" x="0.0" y="-19.5" z="0.0"/>
+    <position name="3DPlanevol3DRow140_pos" unit="cm" x="0.0" y="-20.5" z="0.0"/>
+    <position name="3DPlanevol3DRow141_pos" unit="cm" x="0.0" y="-21.5" z="0.0"/>
+    <position name="3DPlanevol3DRow142_pos" unit="cm" x="0.0" y="-22.5" z="0.0"/>
+    <position name="3DPlanevol3DRow143_pos" unit="cm" x="0.0" y="-23.5" z="0.0"/>
+    <position name="3DPlanevol3DRow144_pos" unit="cm" x="0.0" y="-24.5" z="0.0"/>
+    <position name="3DPlanevol3DRow145_pos" unit="cm" x="0.0" y="-25.5" z="0.0"/>
+    <position name="3DPlanevol3DRow146_pos" unit="cm" x="0.0" y="-26.5" z="0.0"/>
+    <position name="3DPlanevol3DRow147_pos" unit="cm" x="0.0" y="-27.5" z="0.0"/>
+    <position name="3DPlanevol3DRow148_pos" unit="cm" x="0.0" y="-28.5" z="0.0"/>
+    <position name="3DPlanevol3DRow149_pos" unit="cm" x="0.0" y="-29.5" z="0.0"/>
+    <position name="3DPlanevol3DRow150_pos" unit="cm" x="0.0" y="-30.5" z="0.0"/>
+    <position name="3DPlanevol3DRow151_pos" unit="cm" x="0.0" y="-31.5" z="0.0"/>
+    <position name="3DPlanevol3DRow152_pos" unit="cm" x="0.0" y="-32.5" z="0.0"/>
+    <position name="3DPlanevol3DRow153_pos" unit="cm" x="0.0" y="-33.5" z="0.0"/>
+    <position name="3DPlanevol3DRow154_pos" unit="cm" x="0.0" y="-34.5" z="0.0"/>
+    <position name="3DPlanevol3DRow155_pos" unit="cm" x="0.0" y="-35.5" z="0.0"/>
+    <position name="3DPlanevol3DRow156_pos" unit="cm" x="0.0" y="-36.5" z="0.0"/>
+    <position name="3DPlanevol3DRow157_pos" unit="cm" x="0.0" y="-37.5" z="0.0"/>
+    <position name="3DPlanevol3DRow158_pos" unit="cm" x="0.0" y="-38.5" z="0.0"/>
+    <position name="3DPlanevol3DRow159_pos" unit="cm" x="0.0" y="-39.5" z="0.0"/>
+    <position name="3DPlanevol3DRow160_pos" unit="cm" x="0.0" y="-40.5" z="0.0"/>
+    <position name="3DPlanevol3DRow161_pos" unit="cm" x="0.0" y="-41.5" z="0.0"/>
+    <position name="3DPlanevol3DRow162_pos" unit="cm" x="0.0" y="-42.5" z="0.0"/>
+    <position name="3DPlanevol3DRow163_pos" unit="cm" x="0.0" y="-43.5" z="0.0"/>
+    <position name="3DPlanevol3DRow164_pos" unit="cm" x="0.0" y="-44.5" z="0.0"/>
+    <position name="3DPlanevol3DRow165_pos" unit="cm" x="0.0" y="-45.5" z="0.0"/>
+    <position name="3DPlanevol3DRow166_pos" unit="cm" x="0.0" y="-46.5" z="0.0"/>
+    <position name="3DPlanevol3DRow167_pos" unit="cm" x="0.0" y="-47.5" z="0.0"/>
+    <position name="3DPlanevol3DRow168_pos" unit="cm" x="0.0" y="-48.5" z="0.0"/>
+    <position name="3DPlanevol3DRow169_pos" unit="cm" x="0.0" y="-49.5" z="0.0"/>
+    <position name="3DPlanevol3DRow170_pos" unit="cm" x="0.0" y="-50.5" z="0.0"/>
+    <position name="3DPlanevol3DRow171_pos" unit="cm" x="0.0" y="-51.5" z="0.0"/>
+    <position name="3DPlanevol3DRow172_pos" unit="cm" x="0.0" y="-52.5" z="0.0"/>
+    <position name="3DPlanevol3DRow173_pos" unit="cm" x="0.0" y="-53.5" z="0.0"/>
+    <position name="3DPlanevol3DRow174_pos" unit="cm" x="0.0" y="-54.5" z="0.0"/>
+    <position name="3DPlanevol3DRow175_pos" unit="cm" x="0.0" y="-55.5" z="0.0"/>
+    <position name="3DPlanevol3DRow176_pos" unit="cm" x="0.0" y="-56.5" z="0.0"/>
+    <position name="3DPlanevol3DRow177_pos" unit="cm" x="0.0" y="-57.5" z="0.0"/>
+    <position name="3DPlanevol3DRow178_pos" unit="cm" x="0.0" y="-58.5" z="0.0"/>
+    <position name="3DPlanevol3DRow179_pos" unit="cm" x="0.0" y="-59.5" z="0.0"/>
+    <position name="3DPlanevol3DRow180_pos" unit="cm" x="0.0" y="-60.5" z="0.0"/>
+    <position name="3DPlanevol3DRow181_pos" unit="cm" x="0.0" y="-61.5" z="0.0"/>
+    <position name="3DPlanevol3DRow182_pos" unit="cm" x="0.0" y="-62.5" z="0.0"/>
+    <position name="3DPlanevol3DRow183_pos" unit="cm" x="0.0" y="-63.5" z="0.0"/>
+    <position name="3DPlanevol3DRow184_pos" unit="cm" x="0.0" y="-64.5" z="0.0"/>
+    <position name="3DPlanevol3DRow185_pos" unit="cm" x="0.0" y="-65.5" z="0.0"/>
+    <position name="3DPlanevol3DRow186_pos" unit="cm" x="0.0" y="-66.5" z="0.0"/>
+    <position name="3DPlanevol3DRow187_pos" unit="cm" x="0.0" y="-67.5" z="0.0"/>
+    <position name="3DPlanevol3DRow188_pos" unit="cm" x="0.0" y="-68.5" z="0.0"/>
+    <position name="3DPlanevol3DRow189_pos" unit="cm" x="0.0" y="-69.5" z="0.0"/>
+    <position name="3DPlanevol3DRow190_pos" unit="cm" x="0.0" y="-70.5" z="0.0"/>
+    <position name="3DPlanevol3DRow191_pos" unit="cm" x="0.0" y="-71.5" z="0.0"/>
+    <position name="3DPlanevol3DRow192_pos" unit="cm" x="0.0" y="-72.5" z="0.0"/>
+    <position name="3DPlanevol3DRow193_pos" unit="cm" x="0.0" y="-73.5" z="0.0"/>
+    <position name="3DPlanevol3DRow194_pos" unit="cm" x="0.0" y="-74.5" z="0.0"/>
+    <position name="3DPlanevol3DRow195_pos" unit="cm" x="0.0" y="-75.5" z="0.0"/>
+    <position name="3DPlanevol3DRow196_pos" unit="cm" x="0.0" y="-76.5" z="0.0"/>
+    <position name="3DPlanevol3DRow197_pos" unit="cm" x="0.0" y="-77.5" z="0.0"/>
+    <position name="3DPlanevol3DRow198_pos" unit="cm" x="0.0" y="-78.5" z="0.0"/>
+    <position name="3DPlanevol3DRow199_pos" unit="cm" x="0.0" y="-79.5" z="0.0"/>
+    <position name="3DPlanevol3DRow200_pos" unit="cm" x="0.0" y="-80.5" z="0.0"/>
+    <position name="3DPlanevol3DRow201_pos" unit="cm" x="0.0" y="-81.5" z="0.0"/>
+    <position name="3DPlanevol3DRow202_pos" unit="cm" x="0.0" y="-82.5" z="0.0"/>
+    <position name="3DPlanevol3DRow203_pos" unit="cm" x="0.0" y="-83.5" z="0.0"/>
+    <position name="3DPlanevol3DRow204_pos" unit="cm" x="0.0" y="-84.5" z="0.0"/>
+    <position name="3DPlanevol3DRow205_pos" unit="cm" x="0.0" y="-85.5" z="0.0"/>
+    <position name="3DPlanevol3DRow206_pos" unit="cm" x="0.0" y="-86.5" z="0.0"/>
+    <position name="3DPlanevol3DRow207_pos" unit="cm" x="0.0" y="-87.5" z="0.0"/>
+    <position name="3DPlanevol3DRow208_pos" unit="cm" x="0.0" y="-88.5" z="0.0"/>
+    <position name="3DPlanevol3DRow209_pos" unit="cm" x="0.0" y="-89.5" z="0.0"/>
+    <position name="3DPlanevol3DRow210_pos" unit="cm" x="0.0" y="-90.5" z="0.0"/>
+    <position name="3DPlanevol3DRow211_pos" unit="cm" x="0.0" y="-91.5" z="0.0"/>
+    <position name="3DPlanevol3DRow212_pos" unit="cm" x="0.0" y="-92.5" z="0.0"/>
+    <position name="3DPlanevol3DRow213_pos" unit="cm" x="0.0" y="-93.5" z="0.0"/>
+    <position name="3DPlanevol3DRow214_pos" unit="cm" x="0.0" y="-94.5" z="0.0"/>
+    <position name="3DPlanevol3DRow215_pos" unit="cm" x="0.0" y="-95.5" z="0.0"/>
+    <position name="3DPlanevol3DRow216_pos" unit="cm" x="0.0" y="-96.5" z="0.0"/>
+    <position name="3DPlanevol3DRow217_pos" unit="cm" x="0.0" y="-97.5" z="0.0"/>
+    <position name="3DPlanevol3DRow218_pos" unit="cm" x="0.0" y="-98.5" z="0.0"/>
+    <position name="3DPlanevol3DRow219_pos" unit="cm" x="0.0" y="-99.5" z="0.0"/>
+    <position name="3DPlanevol3DRow220_pos" unit="cm" x="0.0" y="-100.5" z="0.0"/>
+    <position name="3DPlanevol3DRow221_pos" unit="cm" x="0.0" y="-101.5" z="0.0"/>
+    <position name="3DPlanevol3DRow222_pos" unit="cm" x="0.0" y="-102.5" z="0.0"/>
+    <position name="3DPlanevol3DRow223_pos" unit="cm" x="0.0" y="-103.5" z="0.0"/>
+    <position name="3DPlanevol3DRow224_pos" unit="cm" x="0.0" y="-104.5" z="0.0"/>
+    <position name="3DPlanevol3DRow225_pos" unit="cm" x="0.0" y="-105.5" z="0.0"/>
+    <position name="3DPlanevol3DRow226_pos" unit="cm" x="0.0" y="-106.5" z="0.0"/>
+    <position name="3DPlanevol3DRow227_pos" unit="cm" x="0.0" y="-107.5" z="0.0"/>
+    <position name="3DPlanevol3DRow228_pos" unit="cm" x="0.0" y="-108.5" z="0.0"/>
+    <position name="3DPlanevol3DRow229_pos" unit="cm" x="0.0" y="-109.5" z="0.0"/>
+    <position name="3DPlanevol3DRow230_pos" unit="cm" x="0.0" y="-110.5" z="0.0"/>
+    <position name="3DPlanevol3DRow231_pos" unit="cm" x="0.0" y="-111.5" z="0.0"/>
+    <position name="3DPlanevol3DRow232_pos" unit="cm" x="0.0" y="-112.5" z="0.0"/>
+    <position name="3DPlanevol3DRow233_pos" unit="cm" x="0.0" y="-113.5" z="0.0"/>
+    <position name="3DPlanevol3DRow234_pos" unit="cm" x="0.0" y="-114.5" z="0.0"/>
+    <position name="3DPlanevol3DRow235_pos" unit="cm" x="0.0" y="-115.5" z="0.0"/>
+    <position name="3DPlanevol3DRow236_pos" unit="cm" x="0.0" y="-116.5" z="0.0"/>
+    <position name="3DPlanevol3DRow237_pos" unit="cm" x="0.0" y="-117.5" z="0.0"/>
+    <position name="3DPlanevol3DRow238_pos" unit="cm" x="0.0" y="-118.5" z="0.0"/>
+    <position name="3DPlanevol3DRow239_pos" unit="cm" x="0.0" y="-119.5" z="0.0"/>
+    <rotation name="A3DST_rot" unit="degree" x="0.0" y="0.0" z="0.0"/>
+    <position name="A3DSTvol3DPlane0_pos" unit="cm" x="0.0" y="0.0" z="-99.5"/>
+    <position name="A3DSTvol3DPlane1_pos" unit="cm" x="0.0" y="0.0" z="-98.5"/>
+    <position name="A3DSTvol3DPlane2_pos" unit="cm" x="0.0" y="0.0" z="-97.5"/>
+    <position name="A3DSTvol3DPlane3_pos" unit="cm" x="0.0" y="0.0" z="-96.5"/>
+    <position name="A3DSTvol3DPlane4_pos" unit="cm" x="0.0" y="0.0" z="-95.5"/>
+    <position name="A3DSTvol3DPlane5_pos" unit="cm" x="0.0" y="0.0" z="-94.5"/>
+    <position name="A3DSTvol3DPlane6_pos" unit="cm" x="0.0" y="0.0" z="-93.5"/>
+    <position name="A3DSTvol3DPlane7_pos" unit="cm" x="0.0" y="0.0" z="-92.5"/>
+    <position name="A3DSTvol3DPlane8_pos" unit="cm" x="0.0" y="0.0" z="-91.5"/>
+    <position name="A3DSTvol3DPlane9_pos" unit="cm" x="0.0" y="0.0" z="-90.5"/>
+    <position name="A3DSTvol3DPlane10_pos" unit="cm" x="0.0" y="0.0" z="-89.5"/>
+    <position name="A3DSTvol3DPlane11_pos" unit="cm" x="0.0" y="0.0" z="-88.5"/>
+    <position name="A3DSTvol3DPlane12_pos" unit="cm" x="0.0" y="0.0" z="-87.5"/>
+    <position name="A3DSTvol3DPlane13_pos" unit="cm" x="0.0" y="0.0" z="-86.5"/>
+    <position name="A3DSTvol3DPlane14_pos" unit="cm" x="0.0" y="0.0" z="-85.5"/>
+    <position name="A3DSTvol3DPlane15_pos" unit="cm" x="0.0" y="0.0" z="-84.5"/>
+    <position name="A3DSTvol3DPlane16_pos" unit="cm" x="0.0" y="0.0" z="-83.5"/>
+    <position name="A3DSTvol3DPlane17_pos" unit="cm" x="0.0" y="0.0" z="-82.5"/>
+    <position name="A3DSTvol3DPlane18_pos" unit="cm" x="0.0" y="0.0" z="-81.5"/>
+    <position name="A3DSTvol3DPlane19_pos" unit="cm" x="0.0" y="0.0" z="-80.5"/>
+    <position name="A3DSTvol3DPlane20_pos" unit="cm" x="0.0" y="0.0" z="-79.5"/>
+    <position name="A3DSTvol3DPlane21_pos" unit="cm" x="0.0" y="0.0" z="-78.5"/>
+    <position name="A3DSTvol3DPlane22_pos" unit="cm" x="0.0" y="0.0" z="-77.5"/>
+    <position name="A3DSTvol3DPlane23_pos" unit="cm" x="0.0" y="0.0" z="-76.5"/>
+    <position name="A3DSTvol3DPlane24_pos" unit="cm" x="0.0" y="0.0" z="-75.5"/>
+    <position name="A3DSTvol3DPlane25_pos" unit="cm" x="0.0" y="0.0" z="-74.5"/>
+    <position name="A3DSTvol3DPlane26_pos" unit="cm" x="0.0" y="0.0" z="-73.5"/>
+    <position name="A3DSTvol3DPlane27_pos" unit="cm" x="0.0" y="0.0" z="-72.5"/>
+    <position name="A3DSTvol3DPlane28_pos" unit="cm" x="0.0" y="0.0" z="-71.5"/>
+    <position name="A3DSTvol3DPlane29_pos" unit="cm" x="0.0" y="0.0" z="-70.5"/>
+    <position name="A3DSTvol3DPlane30_pos" unit="cm" x="0.0" y="0.0" z="-69.5"/>
+    <position name="A3DSTvol3DPlane31_pos" unit="cm" x="0.0" y="0.0" z="-68.5"/>
+    <position name="A3DSTvol3DPlane32_pos" unit="cm" x="0.0" y="0.0" z="-67.5"/>
+    <position name="A3DSTvol3DPlane33_pos" unit="cm" x="0.0" y="0.0" z="-66.5"/>
+    <position name="A3DSTvol3DPlane34_pos" unit="cm" x="0.0" y="0.0" z="-65.5"/>
+    <position name="A3DSTvol3DPlane35_pos" unit="cm" x="0.0" y="0.0" z="-64.5"/>
+    <position name="A3DSTvol3DPlane36_pos" unit="cm" x="0.0" y="0.0" z="-63.5"/>
+    <position name="A3DSTvol3DPlane37_pos" unit="cm" x="0.0" y="0.0" z="-62.5"/>
+    <position name="A3DSTvol3DPlane38_pos" unit="cm" x="0.0" y="0.0" z="-61.5"/>
+    <position name="A3DSTvol3DPlane39_pos" unit="cm" x="0.0" y="0.0" z="-60.5"/>
+    <position name="A3DSTvol3DPlane40_pos" unit="cm" x="0.0" y="0.0" z="-59.5"/>
+    <position name="A3DSTvol3DPlane41_pos" unit="cm" x="0.0" y="0.0" z="-58.5"/>
+    <position name="A3DSTvol3DPlane42_pos" unit="cm" x="0.0" y="0.0" z="-57.5"/>
+    <position name="A3DSTvol3DPlane43_pos" unit="cm" x="0.0" y="0.0" z="-56.5"/>
+    <position name="A3DSTvol3DPlane44_pos" unit="cm" x="0.0" y="0.0" z="-55.5"/>
+    <position name="A3DSTvol3DPlane45_pos" unit="cm" x="0.0" y="0.0" z="-54.5"/>
+    <position name="A3DSTvol3DPlane46_pos" unit="cm" x="0.0" y="0.0" z="-53.5"/>
+    <position name="A3DSTvol3DPlane47_pos" unit="cm" x="0.0" y="0.0" z="-52.5"/>
+    <position name="A3DSTvol3DPlane48_pos" unit="cm" x="0.0" y="0.0" z="-51.5"/>
+    <position name="A3DSTvol3DPlane49_pos" unit="cm" x="0.0" y="0.0" z="-50.5"/>
+    <position name="A3DSTvol3DPlane50_pos" unit="cm" x="0.0" y="0.0" z="-49.5"/>
+    <position name="A3DSTvol3DPlane51_pos" unit="cm" x="0.0" y="0.0" z="-48.5"/>
+    <position name="A3DSTvol3DPlane52_pos" unit="cm" x="0.0" y="0.0" z="-47.5"/>
+    <position name="A3DSTvol3DPlane53_pos" unit="cm" x="0.0" y="0.0" z="-46.5"/>
+    <position name="A3DSTvol3DPlane54_pos" unit="cm" x="0.0" y="0.0" z="-45.5"/>
+    <position name="A3DSTvol3DPlane55_pos" unit="cm" x="0.0" y="0.0" z="-44.5"/>
+    <position name="A3DSTvol3DPlane56_pos" unit="cm" x="0.0" y="0.0" z="-43.5"/>
+    <position name="A3DSTvol3DPlane57_pos" unit="cm" x="0.0" y="0.0" z="-42.5"/>
+    <position name="A3DSTvol3DPlane58_pos" unit="cm" x="0.0" y="0.0" z="-41.5"/>
+    <position name="A3DSTvol3DPlane59_pos" unit="cm" x="0.0" y="0.0" z="-40.5"/>
+    <position name="A3DSTvol3DPlane60_pos" unit="cm" x="0.0" y="0.0" z="-39.5"/>
+    <position name="A3DSTvol3DPlane61_pos" unit="cm" x="0.0" y="0.0" z="-38.5"/>
+    <position name="A3DSTvol3DPlane62_pos" unit="cm" x="0.0" y="0.0" z="-37.5"/>
+    <position name="A3DSTvol3DPlane63_pos" unit="cm" x="0.0" y="0.0" z="-36.5"/>
+    <position name="A3DSTvol3DPlane64_pos" unit="cm" x="0.0" y="0.0" z="-35.5"/>
+    <position name="A3DSTvol3DPlane65_pos" unit="cm" x="0.0" y="0.0" z="-34.5"/>
+    <position name="A3DSTvol3DPlane66_pos" unit="cm" x="0.0" y="0.0" z="-33.5"/>
+    <position name="A3DSTvol3DPlane67_pos" unit="cm" x="0.0" y="0.0" z="-32.5"/>
+    <position name="A3DSTvol3DPlane68_pos" unit="cm" x="0.0" y="0.0" z="-31.5"/>
+    <position name="A3DSTvol3DPlane69_pos" unit="cm" x="0.0" y="0.0" z="-30.5"/>
+    <position name="A3DSTvol3DPlane70_pos" unit="cm" x="0.0" y="0.0" z="-29.5"/>
+    <position name="A3DSTvol3DPlane71_pos" unit="cm" x="0.0" y="0.0" z="-28.5"/>
+    <position name="A3DSTvol3DPlane72_pos" unit="cm" x="0.0" y="0.0" z="-27.5"/>
+    <position name="A3DSTvol3DPlane73_pos" unit="cm" x="0.0" y="0.0" z="-26.5"/>
+    <position name="A3DSTvol3DPlane74_pos" unit="cm" x="0.0" y="0.0" z="-25.5"/>
+    <position name="A3DSTvol3DPlane75_pos" unit="cm" x="0.0" y="0.0" z="-24.5"/>
+    <position name="A3DSTvol3DPlane76_pos" unit="cm" x="0.0" y="0.0" z="-23.5"/>
+    <position name="A3DSTvol3DPlane77_pos" unit="cm" x="0.0" y="0.0" z="-22.5"/>
+    <position name="A3DSTvol3DPlane78_pos" unit="cm" x="0.0" y="0.0" z="-21.5"/>
+    <position name="A3DSTvol3DPlane79_pos" unit="cm" x="0.0" y="0.0" z="-20.5"/>
+    <position name="A3DSTvol3DPlane80_pos" unit="cm" x="0.0" y="0.0" z="-19.5"/>
+    <position name="A3DSTvol3DPlane81_pos" unit="cm" x="0.0" y="0.0" z="-18.5"/>
+    <position name="A3DSTvol3DPlane82_pos" unit="cm" x="0.0" y="0.0" z="-17.5"/>
+    <position name="A3DSTvol3DPlane83_pos" unit="cm" x="0.0" y="0.0" z="-16.5"/>
+    <position name="A3DSTvol3DPlane84_pos" unit="cm" x="0.0" y="0.0" z="-15.5"/>
+    <position name="A3DSTvol3DPlane85_pos" unit="cm" x="0.0" y="0.0" z="-14.5"/>
+    <position name="A3DSTvol3DPlane86_pos" unit="cm" x="0.0" y="0.0" z="-13.5"/>
+    <position name="A3DSTvol3DPlane87_pos" unit="cm" x="0.0" y="0.0" z="-12.5"/>
+    <position name="A3DSTvol3DPlane88_pos" unit="cm" x="0.0" y="0.0" z="-11.5"/>
+    <position name="A3DSTvol3DPlane89_pos" unit="cm" x="0.0" y="0.0" z="-10.5"/>
+    <position name="A3DSTvol3DPlane90_pos" unit="cm" x="0.0" y="0.0" z="-9.5"/>
+    <position name="A3DSTvol3DPlane91_pos" unit="cm" x="0.0" y="0.0" z="-8.5"/>
+    <position name="A3DSTvol3DPlane92_pos" unit="cm" x="0.0" y="0.0" z="-7.5"/>
+    <position name="A3DSTvol3DPlane93_pos" unit="cm" x="0.0" y="0.0" z="-6.5"/>
+    <position name="A3DSTvol3DPlane94_pos" unit="cm" x="0.0" y="0.0" z="-5.5"/>
+    <position name="A3DSTvol3DPlane95_pos" unit="cm" x="0.0" y="0.0" z="-4.5"/>
+    <position name="A3DSTvol3DPlane96_pos" unit="cm" x="0.0" y="0.0" z="-3.5"/>
+    <position name="A3DSTvol3DPlane97_pos" unit="cm" x="0.0" y="0.0" z="-2.5"/>
+    <position name="A3DSTvol3DPlane98_pos" unit="cm" x="0.0" y="0.0" z="-1.5"/>
+    <position name="A3DSTvol3DPlane99_pos" unit="cm" x="0.0" y="0.0" z="-0.5"/>
+    <position name="A3DSTvol3DPlane100_pos" unit="cm" x="0.0" y="0.0" z="0.5"/>
+    <position name="A3DSTvol3DPlane101_pos" unit="cm" x="0.0" y="0.0" z="1.5"/>
+    <position name="A3DSTvol3DPlane102_pos" unit="cm" x="0.0" y="0.0" z="2.5"/>
+    <position name="A3DSTvol3DPlane103_pos" unit="cm" x="0.0" y="0.0" z="3.5"/>
+    <position name="A3DSTvol3DPlane104_pos" unit="cm" x="0.0" y="0.0" z="4.5"/>
+    <position name="A3DSTvol3DPlane105_pos" unit="cm" x="0.0" y="0.0" z="5.5"/>
+    <position name="A3DSTvol3DPlane106_pos" unit="cm" x="0.0" y="0.0" z="6.5"/>
+    <position name="A3DSTvol3DPlane107_pos" unit="cm" x="0.0" y="0.0" z="7.5"/>
+    <position name="A3DSTvol3DPlane108_pos" unit="cm" x="0.0" y="0.0" z="8.5"/>
+    <position name="A3DSTvol3DPlane109_pos" unit="cm" x="0.0" y="0.0" z="9.5"/>
+    <position name="A3DSTvol3DPlane110_pos" unit="cm" x="0.0" y="0.0" z="10.5"/>
+    <position name="A3DSTvol3DPlane111_pos" unit="cm" x="0.0" y="0.0" z="11.5"/>
+    <position name="A3DSTvol3DPlane112_pos" unit="cm" x="0.0" y="0.0" z="12.5"/>
+    <position name="A3DSTvol3DPlane113_pos" unit="cm" x="0.0" y="0.0" z="13.5"/>
+    <position name="A3DSTvol3DPlane114_pos" unit="cm" x="0.0" y="0.0" z="14.5"/>
+    <position name="A3DSTvol3DPlane115_pos" unit="cm" x="0.0" y="0.0" z="15.5"/>
+    <position name="A3DSTvol3DPlane116_pos" unit="cm" x="0.0" y="0.0" z="16.5"/>
+    <position name="A3DSTvol3DPlane117_pos" unit="cm" x="0.0" y="0.0" z="17.5"/>
+    <position name="A3DSTvol3DPlane118_pos" unit="cm" x="0.0" y="0.0" z="18.5"/>
+    <position name="A3DSTvol3DPlane119_pos" unit="cm" x="0.0" y="0.0" z="19.5"/>
+    <position name="A3DSTvol3DPlane120_pos" unit="cm" x="0.0" y="0.0" z="20.5"/>
+    <position name="A3DSTvol3DPlane121_pos" unit="cm" x="0.0" y="0.0" z="21.5"/>
+    <position name="A3DSTvol3DPlane122_pos" unit="cm" x="0.0" y="0.0" z="22.5"/>
+    <position name="A3DSTvol3DPlane123_pos" unit="cm" x="0.0" y="0.0" z="23.5"/>
+    <position name="A3DSTvol3DPlane124_pos" unit="cm" x="0.0" y="0.0" z="24.5"/>
+    <position name="A3DSTvol3DPlane125_pos" unit="cm" x="0.0" y="0.0" z="25.5"/>
+    <position name="A3DSTvol3DPlane126_pos" unit="cm" x="0.0" y="0.0" z="26.5"/>
+    <position name="A3DSTvol3DPlane127_pos" unit="cm" x="0.0" y="0.0" z="27.5"/>
+    <position name="A3DSTvol3DPlane128_pos" unit="cm" x="0.0" y="0.0" z="28.5"/>
+    <position name="A3DSTvol3DPlane129_pos" unit="cm" x="0.0" y="0.0" z="29.5"/>
+    <position name="A3DSTvol3DPlane130_pos" unit="cm" x="0.0" y="0.0" z="30.5"/>
+    <position name="A3DSTvol3DPlane131_pos" unit="cm" x="0.0" y="0.0" z="31.5"/>
+    <position name="A3DSTvol3DPlane132_pos" unit="cm" x="0.0" y="0.0" z="32.5"/>
+    <position name="A3DSTvol3DPlane133_pos" unit="cm" x="0.0" y="0.0" z="33.5"/>
+    <position name="A3DSTvol3DPlane134_pos" unit="cm" x="0.0" y="0.0" z="34.5"/>
+    <position name="A3DSTvol3DPlane135_pos" unit="cm" x="0.0" y="0.0" z="35.5"/>
+    <position name="A3DSTvol3DPlane136_pos" unit="cm" x="0.0" y="0.0" z="36.5"/>
+    <position name="A3DSTvol3DPlane137_pos" unit="cm" x="0.0" y="0.0" z="37.5"/>
+    <position name="A3DSTvol3DPlane138_pos" unit="cm" x="0.0" y="0.0" z="38.5"/>
+    <position name="A3DSTvol3DPlane139_pos" unit="cm" x="0.0" y="0.0" z="39.5"/>
+    <position name="A3DSTvol3DPlane140_pos" unit="cm" x="0.0" y="0.0" z="40.5"/>
+    <position name="A3DSTvol3DPlane141_pos" unit="cm" x="0.0" y="0.0" z="41.5"/>
+    <position name="A3DSTvol3DPlane142_pos" unit="cm" x="0.0" y="0.0" z="42.5"/>
+    <position name="A3DSTvol3DPlane143_pos" unit="cm" x="0.0" y="0.0" z="43.5"/>
+    <position name="A3DSTvol3DPlane144_pos" unit="cm" x="0.0" y="0.0" z="44.5"/>
+    <position name="A3DSTvol3DPlane145_pos" unit="cm" x="0.0" y="0.0" z="45.5"/>
+    <position name="A3DSTvol3DPlane146_pos" unit="cm" x="0.0" y="0.0" z="46.5"/>
+    <position name="A3DSTvol3DPlane147_pos" unit="cm" x="0.0" y="0.0" z="47.5"/>
+    <position name="A3DSTvol3DPlane148_pos" unit="cm" x="0.0" y="0.0" z="48.5"/>
+    <position name="A3DSTvol3DPlane149_pos" unit="cm" x="0.0" y="0.0" z="49.5"/>
+    <position name="A3DSTvol3DPlane150_pos" unit="cm" x="0.0" y="0.0" z="50.5"/>
+    <position name="A3DSTvol3DPlane151_pos" unit="cm" x="0.0" y="0.0" z="51.5"/>
+    <position name="A3DSTvol3DPlane152_pos" unit="cm" x="0.0" y="0.0" z="52.5"/>
+    <position name="A3DSTvol3DPlane153_pos" unit="cm" x="0.0" y="0.0" z="53.5"/>
+    <position name="A3DSTvol3DPlane154_pos" unit="cm" x="0.0" y="0.0" z="54.5"/>
+    <position name="A3DSTvol3DPlane155_pos" unit="cm" x="0.0" y="0.0" z="55.5"/>
+    <position name="A3DSTvol3DPlane156_pos" unit="cm" x="0.0" y="0.0" z="56.5"/>
+    <position name="A3DSTvol3DPlane157_pos" unit="cm" x="0.0" y="0.0" z="57.5"/>
+    <position name="A3DSTvol3DPlane158_pos" unit="cm" x="0.0" y="0.0" z="58.5"/>
+    <position name="A3DSTvol3DPlane159_pos" unit="cm" x="0.0" y="0.0" z="59.5"/>
+    <position name="A3DSTvol3DPlane160_pos" unit="cm" x="0.0" y="0.0" z="60.5"/>
+    <position name="A3DSTvol3DPlane161_pos" unit="cm" x="0.0" y="0.0" z="61.5"/>
+    <position name="A3DSTvol3DPlane162_pos" unit="cm" x="0.0" y="0.0" z="62.5"/>
+    <position name="A3DSTvol3DPlane163_pos" unit="cm" x="0.0" y="0.0" z="63.5"/>
+    <position name="A3DSTvol3DPlane164_pos" unit="cm" x="0.0" y="0.0" z="64.5"/>
+    <position name="A3DSTvol3DPlane165_pos" unit="cm" x="0.0" y="0.0" z="65.5"/>
+    <position name="A3DSTvol3DPlane166_pos" unit="cm" x="0.0" y="0.0" z="66.5"/>
+    <position name="A3DSTvol3DPlane167_pos" unit="cm" x="0.0" y="0.0" z="67.5"/>
+    <position name="A3DSTvol3DPlane168_pos" unit="cm" x="0.0" y="0.0" z="68.5"/>
+    <position name="A3DSTvol3DPlane169_pos" unit="cm" x="0.0" y="0.0" z="69.5"/>
+    <position name="A3DSTvol3DPlane170_pos" unit="cm" x="0.0" y="0.0" z="70.5"/>
+    <position name="A3DSTvol3DPlane171_pos" unit="cm" x="0.0" y="0.0" z="71.5"/>
+    <position name="A3DSTvol3DPlane172_pos" unit="cm" x="0.0" y="0.0" z="72.5"/>
+    <position name="A3DSTvol3DPlane173_pos" unit="cm" x="0.0" y="0.0" z="73.5"/>
+    <position name="A3DSTvol3DPlane174_pos" unit="cm" x="0.0" y="0.0" z="74.5"/>
+    <position name="A3DSTvol3DPlane175_pos" unit="cm" x="0.0" y="0.0" z="75.5"/>
+    <position name="A3DSTvol3DPlane176_pos" unit="cm" x="0.0" y="0.0" z="76.5"/>
+    <position name="A3DSTvol3DPlane177_pos" unit="cm" x="0.0" y="0.0" z="77.5"/>
+    <position name="A3DSTvol3DPlane178_pos" unit="cm" x="0.0" y="0.0" z="78.5"/>
+    <position name="A3DSTvol3DPlane179_pos" unit="cm" x="0.0" y="0.0" z="79.5"/>
+    <position name="A3DSTvol3DPlane180_pos" unit="cm" x="0.0" y="0.0" z="80.5"/>
+    <position name="A3DSTvol3DPlane181_pos" unit="cm" x="0.0" y="0.0" z="81.5"/>
+    <position name="A3DSTvol3DPlane182_pos" unit="cm" x="0.0" y="0.0" z="82.5"/>
+    <position name="A3DSTvol3DPlane183_pos" unit="cm" x="0.0" y="0.0" z="83.5"/>
+    <position name="A3DSTvol3DPlane184_pos" unit="cm" x="0.0" y="0.0" z="84.5"/>
+    <position name="A3DSTvol3DPlane185_pos" unit="cm" x="0.0" y="0.0" z="85.5"/>
+    <position name="A3DSTvol3DPlane186_pos" unit="cm" x="0.0" y="0.0" z="86.5"/>
+    <position name="A3DSTvol3DPlane187_pos" unit="cm" x="0.0" y="0.0" z="87.5"/>
+    <position name="A3DSTvol3DPlane188_pos" unit="cm" x="0.0" y="0.0" z="88.5"/>
+    <position name="A3DSTvol3DPlane189_pos" unit="cm" x="0.0" y="0.0" z="89.5"/>
+    <position name="A3DSTvol3DPlane190_pos" unit="cm" x="0.0" y="0.0" z="90.5"/>
+    <position name="A3DSTvol3DPlane191_pos" unit="cm" x="0.0" y="0.0" z="91.5"/>
+    <position name="A3DSTvol3DPlane192_pos" unit="cm" x="0.0" y="0.0" z="92.5"/>
+    <position name="A3DSTvol3DPlane193_pos" unit="cm" x="0.0" y="0.0" z="93.5"/>
+    <position name="A3DSTvol3DPlane194_pos" unit="cm" x="0.0" y="0.0" z="94.5"/>
+    <position name="A3DSTvol3DPlane195_pos" unit="cm" x="0.0" y="0.0" z="95.5"/>
+    <position name="A3DSTvol3DPlane196_pos" unit="cm" x="0.0" y="0.0" z="96.5"/>
+    <position name="A3DSTvol3DPlane197_pos" unit="cm" x="0.0" y="0.0" z="97.5"/>
+    <position name="A3DSTvol3DPlane198_pos" unit="cm" x="0.0" y="0.0" z="98.5"/>
+    <position name="A3DSTvol3DPlane199_pos" unit="cm" x="0.0" y="0.0" z="99.5"/>
+    <position name="volA3DST_pos" unit="cm" x="0.0" y="-380.0" z="316.3"/>
+    <rotation name="volA3DST_rot" unit="degree" x="0" y="0" z="0"/>
+    <rotation name="noRotate" unit="degree" x="0" y="0" z="0"/>
+    <rotation name="r90aboutX" unit="degree" x="90" y="0" z="0"/>
+    <rotation name="rminus90aboutX" unit="degree" x="-90" y="0" z="0"/>
+    <rotation name="r90aboutY" unit="degree" x="0" y="90" z="0"/>
+    <rotation name="r180aboutY" unit="degree" x="0" y="180" z="0"/>
+    <rotation name="rminus90aboutY" unit="degree" x="0" y="-90" z="0"/>
+    <rotation name="r90aboutZ" unit="degree" x="0" y="0" z="90"/>
+    <rotation name="r90aboutXZ" unit="degree" x="90" y="0" z="90"/>
+    <rotation name="r90aboutYZ" unit="degree" x="0" y="90" z="90"/>
+    <rotation name="r90aboutXminusZ" unit="degree" x="-90" y="0" z="90"/>
+    <rotation name="r90aboutYminusZ" unit="degree" x="0" y="-90" z="90"/>
+    <position name="volDetEnclosure_pos" unit="cm" x="0" y="433.096" z="739.61625"/>
+    <position name="center"/>
+    <rotation name="identity"/>
+  </define>
+  <materials>
+    <element Z="1" formula="H" name="hydrogen">
+      <atom value="1.00791"/>
+    </element>
+    <element Z="5" formula="B" name="boron">
+      <atom value="10.811"/>
+    </element>
+    <element Z="6" formula="C" name="carbon">
+      <atom value="12.0107"/>
+    </element>
+    <element Z="7" formula="N" name="nitrogen">
+      <atom value="14.0671"/>
+    </element>
+    <element Z="8" formula="O" name="oxygen">
+      <atom value="15.999"/>
+    </element>
+    <element Z="9" formula="F" name="fluorine">
+      <atom value="18.9984"/>
+    </element>
+    <element Z="11" formula="Na" name="sodium">
+      <atom value="22.99"/>
+    </element>
+    <element Z="12" formula="Mg" name="magnesium">
+      <atom value="24.305"/>
+    </element>
+    <element Z="13" formula="Al" name="aluminum">
+      <atom value="26.9815"/>
+    </element>
+    <element Z="14" formula="Si" name="silicon">
+      <atom value="28.0855"/>
+    </element>
+    <element Z="15" formula="P" name="phosphorus">
+      <atom value="30.973"/>
+    </element>
+    <element Z="16" formula="S" name="sulfur">
+      <atom value="32.065"/>
+    </element>
+    <element Z="18" formula="Ar" name="argon">
+      <atom value="39.948"/>
+    </element>
+    <element Z="19" formula="K" name="potassium">
+      <atom value="39.0983"/>
+    </element>
+    <element Z="20" formula="Ca" name="calcium">
+      <atom value="40.078"/>
+    </element>
+    <element Z="22" formula="Ti" name="titanium">
+      <atom value="47.867"/>
+    </element>
+    <element Z="24" formula="Cr" name="chromium">
+      <atom value="51.9961"/>
+    </element>
+    <element Z="26" formula="Fe" name="iron">
+      <atom value="55.845"/>
+    </element>
+    <element Z="28" formula="Ni" name="nickel">
+      <atom value="58.6934"/>
+    </element>
+    <isotope N="63" Z="29" name="copper63">
+      <atom type="A" value="62.93"/>
+    </isotope>
+    <isotope N="65" Z="29" name="copper65">
+      <atom type="A" value="64.93"/>
+    </isotope>
+    <element name="copper">
+      <fraction n="0.6917" ref="copper63"/>
+      <fraction n="0.3083" ref="copper65"/>
+    </element>
+    <isotope N="64" Z="30" name="zinc64">
+      <atom type="A" value="63.93"/>
+    </isotope>
+    <element name="zinc">
+      <fraction n="1.0" ref="zinc64"/>
+    </element>
+    <element Z="35" formula="Br" name="bromine">
+      <atom value="79.904"/>
+    </element>
+    <element Z="51" formula="Sb" name="antimony">
+      <atom value="121.76"/>
+    </element>
+    <element Z="54" formula="Xe" name="xenon">
+      <atom value="131.293"/>
+    </element>
+    <element Z="82" formula="Pb" name="lead">
+      <atom value="207.2"/>
+    </element>
+    <material formula="" name="SiO2">
+      <D value="2.2"/>
+      <composite n="1" ref="silicon"/>
+      <composite n="2" ref="oxygen"/>
+    </material>
+    <material formula="" name="FeO">
+      <D value="5.745"/>
+      <composite n="1" ref="iron"/>
+      <composite n="1" ref="oxygen"/>
+    </material>
+    <material formula="" name="Al2O3">
+      <D value="3.97"/>
+      <composite n="2" ref="aluminum"/>
+      <composite n="3" ref="oxygen"/>
+    </material>
+    <material formula="" name="MgO">
+      <D value="3.58"/>
+      <composite n="1" ref="magnesium"/>
+      <composite n="1" ref="oxygen"/>
+    </material>
+    <material formula="" name="CO2">
+      <D value="1.562"/>
+      <composite n="1" ref="carbon"/>
+      <composite n="2" ref="oxygen"/>
+    </material>
+    <material formula="" name="CaO">
+      <D value="3.35"/>
+      <composite n="1" ref="calcium"/>
+      <composite n="1" ref="oxygen"/>
+    </material>
+    <material formula="" name="Na2O">
+      <D value="2.27"/>
+      <composite n="2" ref="sodium"/>
+      <composite n="1" ref="oxygen"/>
+    </material>
+    <material formula="" name="P2O5">
+      <D value="1.562"/>
+      <composite n="2" ref="phosphorus"/>
+      <composite n="5" ref="oxygen"/>
+    </material>
+    <material formula="" name="TiO2">
+      <D value="4.23"/>
+      <composite n="1" ref="titanium"/>
+      <composite n="2" ref="oxygen"/>
+    </material>
+    <material formula="" name="Fe2O3">
+      <D value="5.24"/>
+      <composite n="2" ref="iron"/>
+      <composite n="3" ref="oxygen"/>
+    </material>
+    <material formula="" name="Rock">
+      <D value="2.82"/>
+      <fraction n="0.5267" ref="SiO2"/>
+      <fraction n="0.1174" ref="FeO"/>
+      <fraction n="0.1025" ref="Al2O3"/>
+      <fraction n="0.0771" ref="oxygen"/>
+      <fraction n="0.0473" ref="MgO"/>
+      <fraction n="0.0422" ref="CO2"/>
+      <fraction n="0.0382" ref="CaO"/>
+      <fraction n="0.024" ref="carbon"/>
+      <fraction n="0.0186" ref="sulfur"/>
+      <fraction n="0.0053" ref="Na2O"/>
+      <fraction n="0.0007" ref="P2O5"/>
+    </material>
+    <material formula="" name="Dirt">
+      <D value="1.7"/>
+      <fraction n="0.438" ref="oxygen"/>
+      <fraction n="0.257" ref="silicon"/>
+      <fraction n="0.222" ref="sodium"/>
+      <fraction n="0.049" ref="aluminum"/>
+      <fraction n="0.019" ref="iron"/>
+      <fraction n="0.015" ref="potassium"/>
+    </material>
+    <material formula="" name="Air">
+      <D value="0.001225"/>
+      <fraction n="0.781154" ref="nitrogen"/>
+      <fraction n="0.209476" ref="oxygen"/>
+      <fraction n="0.00934" ref="argon"/>
+    </material>
+    <material formula="" name="Bakelite">
+      <D value="1.25"/>
+      <fraction n="0.057441" ref="hydrogen"/>
+      <fraction n="0.774591" ref="carbon"/>
+      <fraction n="0.167968" ref="oxygen"/>
+    </material>
+    <material formula="" name="Honeycomb">
+      <D value="0.94"/>
+      <fraction n="0.143711" ref="hydrogen"/>
+      <fraction n="0.856289" ref="carbon"/>
+    </material>
+    <material formula="" name="C3H6">
+      <D value="0.946"/>
+      <composite n="3" ref="carbon"/>
+      <composite n="6" ref="hydrogen"/>
+    </material>
+    <material formula="" name="RadiatorBlend">
+      <D value="0.1586875"/>
+      <fraction n="0.00643297886307" ref="Air"/>
+      <fraction n="0.993567021137" ref="C3H6"/>
+    </material>
+    <material formula="" name="stGas_Xe">
+      <D value="0.00469254464286"/>
+      <fraction n="0.3" ref="CO2"/>
+      <fraction n="0.7" ref="argon"/>
+    </material>
+    <material formula="" name="Water">
+      <D value="1.0"/>
+      <composite n="1" ref="oxygen"/>
+      <composite n="2" ref="hydrogen"/>
+    </material>
+    <material formula="" name="ArgonTarget">
+      <D value="0.2297"/>
+      <composite n="1" ref="argon"/>
+    </material>
+    <material formula="" name="Aluminum">
+      <D value="2.7"/>
+      <composite n="1" ref="aluminum"/>
+    </material>
+    <material formula="" name="Copper">
+      <D value="8.96"/>
+      <composite n="1" ref="copper"/>
+    </material>
+    <material formula="" name="MagnetCoil">
+      <D value="6.94"/>
+      <fraction n="0.964" ref="Copper"/>
+      <fraction n="0.036" ref="Water"/>
+    </material>
+    <material formula="" name="CarbonFiber">
+      <D value="1.6"/>
+      <composite n="1" ref="carbon"/>
+    </material>
+    <material formula="" name="stGas_Ar">
+      <D value="0.00183785714286"/>
+      <fraction n="0.3" ref="CO2"/>
+      <fraction n="0.7" ref="argon"/>
+    </material>
+    <material formula="" name="Kapton">
+      <D value="1.4"/>
+      <composite n="22" ref="carbon"/>
+      <composite n="5" ref="oxygen"/>
+      <composite n="2" ref="nitrogen"/>
+    </material>
+    <material formula="" name="Iron">
+      <D value="7.874"/>
+      <composite n="1" ref="iron"/>
+    </material>
+    <material formula="" name="Graphite">
+      <D value="2.23"/>
+      <composite n="1" ref="carbon"/>
+    </material>
+    <material formula="" name="Calcium">
+      <D value="1.55"/>
+      <composite n="1" ref="calcium"/>
+    </material>
+    <material formula="" name="Steel">
+      <D value="7.93"/>
+      <fraction n="0.7298" ref="iron"/>
+      <fraction n="0.1792" ref="chromium"/>
+      <fraction n="0.09" ref="nickel"/>
+      <fraction n="0.001" ref="carbon"/>
+    </material>
+    <material formula="" name="polycarbonate">
+      <D value="1.6"/>
+      <composite n="16" ref="carbon"/>
+      <composite n="6" ref="hydrogen"/>
+      <composite n="3" ref="oxygen"/>
+    </material>
+    <material formula="" name="sttFrameMix">
+      <D value="0.235"/>
+      <fraction n="0.764705882353" ref="carbon"/>
+      <fraction n="0.235294117647" ref="polycarbonate"/>
+    </material>
+    <material formula="" name="fibrous_glass">
+      <D value="1.0"/>
+      <fraction n="0.6" ref="SiO2"/>
+      <fraction n="0.224" ref="CaO"/>
+      <fraction n="0.118" ref="Al2O3"/>
+      <fraction n="0.034" ref="MgO"/>
+      <fraction n="0.013" ref="TiO2"/>
+      <fraction n="0.01" ref="Na2O"/>
+      <fraction n="0.001" ref="Fe2O3"/>
+    </material>
+    <material formula="" name="CH2FCF3">
+      <D value="0.00425"/>
+      <composite n="2" ref="carbon"/>
+      <composite n="2" ref="hydrogen"/>
+      <composite n="4" ref="fluorine"/>
+    </material>
+    <material formula="" name="C4H10">
+      <D value="0.00251"/>
+      <composite n="4" ref="carbon"/>
+      <composite n="10" ref="hydrogen"/>
+    </material>
+    <material formula="" name="SF6">
+      <D value="0.00617"/>
+      <composite n="4" ref="sulfur"/>
+      <composite n="6" ref="fluorine"/>
+    </material>
+    <material formula="" name="rpcGas">
+      <D value="0.001784"/>
+      <fraction n="0.75" ref="argon"/>
+      <fraction n="0.2" ref="CH2FCF3"/>
+      <fraction n="0.04" ref="C4H10"/>
+      <fraction n="0.01" ref="SF6"/>
+    </material>
+    <material formula="" name="epoxy_resin">
+      <D value="1.125"/>
+      <composite n="38" ref="carbon"/>
+      <composite n="40" ref="hydrogen"/>
+      <composite n="6" ref="oxygen"/>
+    </material>
+    <material formula="" name="Epoxy">
+      <D value="1.25"/>
+      <composite n="6" ref="carbon"/>
+      <composite n="6" ref="hydrogen"/>
+      <composite n="1" ref="oxygen"/>
+    </material>
+    <material formula="" name="Glass">
+      <D value="2.7"/>
+      <fraction n="0.2743" ref="silicon"/>
+      <fraction n="0.0166" ref="boron"/>
+      <fraction n="0.0207" ref="aluminum"/>
+      <fraction n="0.0449" ref="sodium"/>
+      <fraction n="0.0821" ref="potassium"/>
+      <fraction n="0.0882" ref="zinc"/>
+      <fraction n="0.0292" ref="titanium"/>
+      <fraction n="0.444" ref="oxygen"/>
+    </material>
+    <material formula="" name="FR4">
+      <D value="1.85"/>
+      <fraction n="0.206" ref="Epoxy"/>
+      <fraction n="0.794" ref="Glass"/>
+    </material>
+    <material formula="" name="PVT">
+      <D value="1.023"/>
+      <composite n="9" ref="carbon"/>
+      <composite n="10" ref="hydrogen"/>
+    </material>
+    <material formula="" name="Scintillator">
+      <D value="1.05"/>
+      <fraction n="0.916" ref="carbon"/>
+      <fraction n="0.084" ref="hydrogen"/>
+    </material>
+    <material formula="" name="Oil">
+      <D value="0.8"/>
+      <fraction n="0.916" ref="carbon"/>
+      <fraction n="0.084" ref="hydrogen"/>
+    </material>
+    <material formula="" name="Lead">
+      <D value="11.342"/>
+      <composite n="1" ref="lead"/>
+    </material>
+    <material formula="" name="LAr">
+      <D value="1.4"/>
+      <composite n="1" ref="argon"/>
+    </material>
+    <material formula="" name="GAr">
+      <D value="0.001784"/>
+      <composite n="1" ref="argon"/>
+    </material>
+    <material formula="" name="KLOEEcal">
+      <D value="5.3"/>
+      <fraction n="0.42" ref="Lead"/>
+      <fraction n="0.48" ref="Scintillator"/>
+      <fraction n="0.1" ref="epoxy_resin"/>
+    </material>
+    <material formula="" name="PVF">
+      <D value="1.71"/>
+      <composite n="2" ref="carbon"/>
+      <composite n="3" ref="hydrogen"/>
+      <composite n="1" ref="fluorine"/>
+    </material>
+    <material formula="" name="Kevlar">
+      <D value="1.45"/>
+      <composite n="7" ref="carbon"/>
+      <composite n="5" ref="hydrogen"/>
+      <composite n="1" ref="nitrogen"/>
+      <composite n="1" ref="oxygen"/>
+    </material>
+    <material formula="" name="NomexHoneycomb">
+      <D value="0.029"/>
+      <composite n="7" ref="carbon"/>
+      <composite n="5" ref="hydrogen"/>
+      <composite n="1" ref="nitrogen"/>
+      <composite n="1" ref="oxygen"/>
+    </material>
+    <material formula="" name="Mylar">
+      <D value="1.39"/>
+      <composite n="10" ref="carbon"/>
+      <composite n="8" ref="hydrogen"/>
+      <composite n="4" ref="oxygen"/>
+    </material>
+    <material formula="" name="KevlarPrepreg">
+      <D value="1.37"/>
+      <fraction n="0.6" ref="Kevlar"/>
+      <fraction n="0.4" ref="epoxy_resin"/>
+    </material>
+    <material formula="" name="Methane">
+      <D value="0.000716"/>
+      <composite n="1" ref="carbon"/>
+      <composite n="4" ref="hydrogen"/>
+    </material>
+    <material formula="" name="Ethane">
+      <D value="0.00134"/>
+      <composite n="2" ref="carbon"/>
+      <composite n="6" ref="hydrogen"/>
+    </material>
+    <material formula="" name="CF4">
+      <D value="0.00393"/>
+      <composite n="1" ref="carbon"/>
+      <composite n="4" ref="fluorine"/>
+    </material>
+    <material formula="" name="CH2F2">
+      <D value="0.00232"/>
+      <composite n="1" ref="carbon"/>
+      <composite n="2" ref="hydrogen"/>
+      <composite n="2" ref="fluorine"/>
+    </material>
+    <material formula="" name="DME">
+      <D value="0.00206"/>
+      <composite n="2" ref="carbon"/>
+      <composite n="6" ref="hydrogen"/>
+      <composite n="1" ref="oxygen"/>
+    </material>
+    <material formula="" name="Nitrogen">
+      <D value="0.000625"/>
+      <composite n="1" ref="nitrogen"/>
+    </material>
+    <material formula="" name="HP_Ar">
+      <D value="0.01784"/>
+      <composite n="1" ref="argon"/>
+    </material>
+    <material formula="" name="HP_ArCO2">
+      <D value="0.01802"/>
+      <fraction n="0.89" ref="HP_Ar"/>
+      <fraction n="0.11" ref="CO2"/>
+    </material>
+    <material formula="" name="HP_ArCH4">
+      <D value="0.01677"/>
+      <fraction n="0.957" ref="HP_Ar"/>
+      <fraction n="0.043" ref="Methane"/>
+    </material>
+    <material formula="" name="HP_ArCF4">
+      <D value="0.01998"/>
+      <fraction n="0.801" ref="HP_Ar"/>
+      <fraction n="0.199" ref="CF4"/>
+    </material>
+  </materials>
+  <solids>
+    <box lunit="cm" name="3DRectBar" x="1.0" y="1.0" z="1.0"/>
+    <box lunit="cm" name="3DRow" x="240.0" y="1.0" z="1.0"/>
+    <box lunit="cm" name="3DPlane" x="240.0" y="240.0" z="1.0"/>
+    <box lunit="cm" name="A3DST" x="240.0" y="240.0" z="200.0"/>
+    <box lunit="cm" name="DetEnclosure" x="1798.32" y="1536.192" z="3003.2325"/>
+    <box lunit="cm" name="World" x="40000.0" y="40000.0" z="40000.0"/>
+  </solids>
+  <structure>
+    <volume name="vol3DRectBar">
+      <materialref ref="Scintillator"/>
+      <solidref ref="3DRectBar"/>
+      <auxiliary auxtype="SensDet" auxvalue="3DScint"/>
+    </volume>
+    <volume name="vol3DRow">
+      <materialref ref="Air"/>
+      <solidref ref="3DRow"/>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar0_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar1_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar2_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar3_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar4_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar5_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar6_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar7_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar8_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar9_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar10_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar11_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar12_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar13_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar14_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar15_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar16_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar17_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar18_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar19_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar20_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar21_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar22_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar23_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar24_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar25_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar26_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar27_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar28_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar29_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar30_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar31_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar32_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar33_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar34_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar35_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar36_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar37_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar38_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar39_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar40_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar41_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar42_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar43_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar44_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar45_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar46_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar47_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar48_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar49_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar50_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar51_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar52_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar53_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar54_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar55_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar56_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar57_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar58_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar59_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar60_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar61_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar62_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar63_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar64_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar65_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar66_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar67_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar68_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar69_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar70_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar71_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar72_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar73_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar74_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar75_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar76_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar77_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar78_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar79_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar80_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar81_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar82_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar83_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar84_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar85_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar86_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar87_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar88_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar89_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar90_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar91_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar92_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar93_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar94_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar95_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar96_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar97_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar98_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar99_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar100_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar101_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar102_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar103_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar104_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar105_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar106_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar107_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar108_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar109_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar110_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar111_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar112_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar113_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar114_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar115_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar116_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar117_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar118_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar119_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar120_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar121_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar122_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar123_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar124_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar125_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar126_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar127_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar128_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar129_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar130_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar131_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar132_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar133_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar134_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar135_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar136_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar137_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar138_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar139_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar140_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar141_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar142_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar143_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar144_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar145_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar146_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar147_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar148_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar149_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar150_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar151_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar152_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar153_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar154_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar155_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar156_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar157_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar158_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar159_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar160_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar161_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar162_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar163_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar164_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar165_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar166_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar167_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar168_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar169_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar170_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar171_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar172_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar173_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar174_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar175_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar176_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar177_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar178_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar179_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar180_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar181_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar182_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar183_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar184_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar185_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar186_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar187_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar188_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar189_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar190_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar191_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar192_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar193_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar194_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar195_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar196_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar197_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar198_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar199_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar200_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar201_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar202_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar203_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar204_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar205_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar206_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar207_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar208_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar209_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar210_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar211_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar212_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar213_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar214_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar215_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar216_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar217_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar218_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar219_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar220_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar221_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar222_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar223_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar224_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar225_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar226_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar227_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar228_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar229_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar230_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar231_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar232_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar233_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar234_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar235_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar236_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar237_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar238_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRectBar"/>
+        <positionref ref="3DRowvol3DRectBar239_pos"/>
+        <rotationref ref="3DRow_rot"/>
+      </physvol>
+    </volume>
+    <volume name="vol3DPlane">
+      <materialref ref="Air"/>
+      <solidref ref="3DPlane"/>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow0_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow1_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow2_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow3_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow4_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow5_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow6_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow7_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow8_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow9_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow10_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow11_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow12_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow13_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow14_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow15_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow16_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow17_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow18_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow19_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow20_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow21_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow22_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow23_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow24_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow25_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow26_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow27_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow28_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow29_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow30_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow31_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow32_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow33_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow34_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow35_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow36_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow37_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow38_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow39_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow40_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow41_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow42_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow43_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow44_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow45_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow46_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow47_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow48_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow49_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow50_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow51_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow52_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow53_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow54_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow55_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow56_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow57_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow58_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow59_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow60_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow61_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow62_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow63_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow64_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow65_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow66_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow67_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow68_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow69_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow70_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow71_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow72_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow73_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow74_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow75_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow76_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow77_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow78_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow79_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow80_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow81_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow82_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow83_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow84_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow85_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow86_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow87_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow88_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow89_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow90_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow91_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow92_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow93_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow94_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow95_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow96_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow97_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow98_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow99_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow100_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow101_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow102_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow103_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow104_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow105_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow106_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow107_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow108_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow109_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow110_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow111_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow112_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow113_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow114_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow115_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow116_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow117_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow118_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow119_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow120_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow121_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow122_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow123_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow124_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow125_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow126_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow127_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow128_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow129_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow130_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow131_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow132_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow133_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow134_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow135_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow136_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow137_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow138_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow139_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow140_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow141_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow142_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow143_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow144_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow145_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow146_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow147_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow148_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow149_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow150_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow151_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow152_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow153_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow154_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow155_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow156_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow157_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow158_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow159_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow160_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow161_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow162_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow163_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow164_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow165_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow166_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow167_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow168_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow169_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow170_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow171_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow172_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow173_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow174_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow175_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow176_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow177_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow178_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow179_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow180_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow181_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow182_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow183_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow184_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow185_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow186_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow187_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow188_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow189_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow190_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow191_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow192_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow193_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow194_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow195_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow196_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow197_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow198_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow199_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow200_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow201_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow202_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow203_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow204_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow205_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow206_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow207_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow208_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow209_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow210_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow211_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow212_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow213_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow214_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow215_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow216_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow217_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow218_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow219_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow220_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow221_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow222_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow223_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow224_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow225_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow226_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow227_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow228_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow229_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow230_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow231_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow232_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow233_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow234_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow235_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow236_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow237_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow238_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DRow"/>
+        <positionref ref="3DPlanevol3DRow239_pos"/>
+        <rotationref ref="3DPlane_rot"/>
+      </physvol>
+    </volume>
+    <volume name="volA3DST">
+      <materialref ref="Air"/>
+      <solidref ref="A3DST"/>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane0_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane1_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane2_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane3_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane4_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane5_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane6_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane7_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane8_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane9_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane10_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane11_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane12_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane13_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane14_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane15_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane16_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane17_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane18_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane19_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane20_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane21_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane22_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane23_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane24_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane25_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane26_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane27_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane28_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane29_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane30_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane31_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane32_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane33_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane34_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane35_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane36_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane37_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane38_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane39_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane40_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane41_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane42_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane43_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane44_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane45_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane46_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane47_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane48_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane49_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane50_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane51_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane52_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane53_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane54_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane55_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane56_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane57_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane58_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane59_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane60_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane61_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane62_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane63_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane64_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane65_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane66_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane67_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane68_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane69_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane70_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane71_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane72_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane73_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane74_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane75_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane76_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane77_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane78_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane79_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane80_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane81_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane82_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane83_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane84_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane85_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane86_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane87_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane88_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane89_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane90_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane91_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane92_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane93_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane94_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane95_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane96_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane97_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane98_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane99_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane100_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane101_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane102_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane103_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane104_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane105_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane106_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane107_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane108_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane109_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane110_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane111_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane112_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane113_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane114_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane115_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane116_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane117_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane118_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane119_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane120_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane121_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane122_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane123_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane124_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane125_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane126_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane127_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane128_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane129_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane130_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane131_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane132_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane133_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane134_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane135_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane136_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane137_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane138_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane139_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane140_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane141_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane142_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane143_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane144_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane145_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane146_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane147_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane148_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane149_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane150_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane151_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane152_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane153_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane154_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane155_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane156_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane157_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane158_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane159_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane160_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane161_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane162_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane163_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane164_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane165_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane166_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane167_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane168_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane169_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane170_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane171_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane172_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane173_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane174_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane175_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane176_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane177_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane178_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane179_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane180_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane181_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane182_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane183_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane184_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane185_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane186_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane187_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane188_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane189_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane190_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane191_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane192_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane193_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane194_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane195_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane196_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane197_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane198_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+      <physvol>
+        <volumeref ref="vol3DPlane"/>
+        <positionref ref="A3DSTvol3DPlane199_pos"/>
+        <rotationref ref="A3DST_rot"/>
+      </physvol>
+    </volume>
+    <volume name="volDetEnclosure">
+      <materialref ref="Air"/>
+      <solidref ref="DetEnclosure"/>
+      <physvol>
+        <volumeref ref="volA3DST"/>
+        <positionref ref="volA3DST_pos"/>
+        <rotationref ref="volA3DST_rot"/>
+      </physvol>
+      <auxiliary auxtype="BField" auxvalue="(0.4 T, 0.0 T, 0.0 T)"/>
+      </volume>
+    <volume name="volWorld">
+      <materialref ref="Rock"/>
+      <solidref ref="World"/>
+      <physvol>
+        <volumeref ref="volDetEnclosure"/>
+        <positionref ref="volDetEnclosure_pos"/>
+        <rotationref ref="identity"/>
+      </physvol>
+    </volume>
+  </structure>
+  <setup name="Default" version="0">
+    <world ref="volWorld"/>
+  </setup>
+</gdml>
